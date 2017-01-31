@@ -1,5 +1,6 @@
 ## Demo landing page application with vanilla js logic
 
+
 ##Задача 
 * Создание сайта-портфолио веб-студии по предоставленному psd макету. 
 
